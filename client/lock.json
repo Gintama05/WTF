@@ -1,0 +1,15 @@
+{
+    "name": "Your project name",
+    "version": "1.0.0",
+    "description": "Your project description",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+    },
+    "author": "Author name",
+    "license": "ISC",
+    "dependencies": {
+        "dependency1": "^1.4.0",
+        "dependency2": "^1.5.2"
+    }
+}
